@@ -2,9 +2,14 @@
 - 📫e-mail: whgusrnr7795@gmail.com
 - blog : https://blog.naver.com/danielcho5545
 - googleDrive : https://drive.google.com/drive/folders/14OaJcQd68liBQZzSArm6Fol-D1OI3sY2?usp=sharing
-<!---
-ChoHyunGook/ChoHyunGook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoHyunGook&show_icons=true&theme=highcontrast)<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
+
+
+# 📬: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vlveral817@gmail.com)](mailto:whgusrnr7795@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:laura817@gmail.com)](mailto:danielcho5545.naver.com)
