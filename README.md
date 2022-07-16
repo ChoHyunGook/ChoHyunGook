@@ -1,5 +1,12 @@
+# 🎇 CHO HYUN GOOK 🎇 
+
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FChoHyunGook%2Fgjbae1212%2Fhit-counter&count_bg=%2348494F&title_bg=%23F6FF6E&icon=&icon_color=%23946037&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoHyunGook&show_icons=true&theme=highcontrast)<br/>
+	
+  </div>
 
 
 # 💪 Stacks
