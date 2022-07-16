@@ -11,5 +11,5 @@
 
 
 # 📬: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vlveral817@gmail.com)](mailto:whgusrnr7795@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:laura817@gmail.com)](mailto:danielcho5545.naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vlveral817@gmail.com)](mailto:vlveral817@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:laura817@gmail.com)](mailto:laura817@gmail.com)
