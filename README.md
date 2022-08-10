@@ -32,12 +32,14 @@
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white)
 ![REACT](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![REDUX](https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=Express&logoColor=white)
 
 
 # 🎨 Tools
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-76D04B.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA%20CUDA-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white)
 
 # 📬: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whgusrnr7795@gmail.com)](mailto:whgusrnr7795@gmail.com)
