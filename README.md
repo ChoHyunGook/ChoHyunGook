@@ -3,18 +3,21 @@
 ![StandingOvationGIF (2)](https://user-images.githubusercontent.com/97998332/212107779-977df940-679d-4daf-8e1f-588c1c5cda2e.gif)
 
 
+# 🧬 Database
+![DynamoDB](https://img.shields.io/badge/AmazonDynamoDB-4053D6.svg?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+
 
 # 💪 Stacks
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NODE](https://img.shields.io/badge/NODE-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
@@ -33,6 +36,7 @@
 # 🎨 Tools
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-76D04B.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA%20CUDA-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white)
 
