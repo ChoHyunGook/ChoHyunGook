@@ -1,6 +1,7 @@
 # 🎇 CHO HYUN GOOK 🎇 
 
-![StandingOvationGIF (2)](https://user-images.githubusercontent.com/97998332/212107779-977df940-679d-4daf-8e1f-588c1c5cda2e.gif)
+![SnoopyDogGIF (2)](https://user-images.githubusercontent.com/97998332/213250224-7c75262a-988e-4653-82ab-9e4bebc47bc1.gif)
+
 
 
 # 🧬 Database
