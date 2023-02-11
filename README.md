@@ -2,6 +2,10 @@
 
 ![SnoopyDogGIF (2)](https://user-images.githubusercontent.com/97998332/213250224-7c75262a-988e-4653-82ab-9e4bebc47bc1.gif)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ChoHyunGook&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoHyunGook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 🧬 Database
