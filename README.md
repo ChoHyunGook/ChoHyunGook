@@ -23,12 +23,15 @@ https://danielcho.notion.site/Developer-DanielCho-Notion-25383a794fda482fbe792b4
 ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NODE](https://img.shields.io/badge/NODE-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![ios](https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 # 🎡 FrameWorks
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -40,6 +43,8 @@ https://danielcho.notion.site/Developer-DanielCho-Notion-25383a794fda482fbe792b4
 ![REACT](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![REDUX](https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=Express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+
 
 
 # 🎨 Tools
@@ -47,6 +52,7 @@ https://danielcho.notion.site/Developer-DanielCho-Notion-25383a794fda482fbe792b4
 ![PyCharm](https://img.shields.io/badge/PyCharm-76D04B.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?&style=for-the-badge&logo=WebStorm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white)
 ![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA%20CUDA-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white)
 
 # 📬: Contacts
